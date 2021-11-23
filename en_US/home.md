@@ -14,7 +14,7 @@ _advertiser and simplify link integration by automating all the process_
 Nopow-Link is a **webapp** but also a **webapi**, the market place share part
 of it secure **database** with user website throug a plugin. As simple user,
 the only things you need to know is how to install
-[the Nopow-Link extensions](./extensions/index.md) to ending your profile
+[the Nopow-Link extensions](./extensions/extensions.md) to ending your profile
 setup.
 
 Notice that all of our plugins are open source then you can find more detail

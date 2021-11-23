@@ -11,8 +11,8 @@ good place.
 
 # Discover
 
-- English documentation : [here](./en_US/index.md)
-- Documentation Française : [ici](./fr_FR/index.md)
+- English documentation : [here](./en_US/home.md)
+- Documentation Française : [ici](./fr_FR/accueil.md)
 
 # Contribute
 
