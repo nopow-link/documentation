@@ -17,7 +17,7 @@ Nopow-Link est une **webapp** mais aussi une **webapi**, la marketplace partage
 une partie de sa base de donnée sécurisé avec les sites internet de ses
 utilisateur via une extension. En tant que simple utilisateurs tout ce que vous
 devez savoir, c'est comment installer
-[les extension Nopow-Link](./extension/extensions.md) sur votre site internet
+[les extension Nopow-Link](./Extension/Extensions.md) sur votre site internet
 afin de finaliser la configuration de votre compte.
 
 Notez que tout nos plugin sont open source vous pouvez donc trouver plus de

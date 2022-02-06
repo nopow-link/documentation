@@ -5,8 +5,8 @@ correspondant à votre site internet.
 
 ### CMS
 
-- Plugin pour le CMS [Wordpress](./cms/wordpress.md)
+- Plugin pour le CMS [Wordpress](./Cms/Wordpress.md)
 
 ### Framework
 
-- Packet pour le framework [Symphony](./frameworks/symfony.md)
+- Packet pour le framework [Symphony](./Frameworks/Symfony.md)

@@ -5,8 +5,8 @@ that is match your website technologies.
 
 ### CMS
 
-- Plugin for the CMS : [Wordpress](./cms/wordpress.md)
+- Plugin for the CMS : [Wordpress](./Cms/Wordpress.md)
 
 ### Framework
 
-- Package for the framework : [Symfony](./frameworks/symfony.md)
+- Package for the framework : [Symfony](./Frameworks/Symfony.md)
