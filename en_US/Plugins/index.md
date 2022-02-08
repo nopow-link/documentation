@@ -1,4 +1,7 @@
-# Example
+---
+menu_order: 2
+---
+
 # Available extensions
 
 Discover how to install your extension. Select one of the technologie bellow
