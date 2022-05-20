@@ -12,6 +12,4 @@ Discover how to install your extension. Select one of the technologie bellow tha
 
 ### Framework
 
-- Package for the framework : [Symfony](./Frameworks/Symfony.md)
-
 We also have a plugin compatible with all websites. Insofar as the plugin corresponding to your technology is available, we advise you to use it first. Otherwise follow the instructions at the following link to proceed with the installation.

@@ -12,6 +12,6 @@ Découvrez comment installer votre plugin. Sélectionner la technologie correspo
 
 ### Framework
 
-- Packet pour le framework [Symphony](./Frameworks/Symfony.md)
+- Nous ne supportons actuellement aucun framework nativement.
 
 Nous disposons également d'un plugin compatible avec tous les sites internet. Dans le mesure où le plugin correspondant a votre technologie est disponible nous vous conseillons de l'utiliser en priorité. Autrement suivez les instructions au lien suivant pour procéder à l'installation.
