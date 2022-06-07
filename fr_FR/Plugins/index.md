@@ -8,7 +8,7 @@ Découvrez comment installer votre plugin. Sélectionner la technologie correspo
 
 ### CMS
 
-- Plugin pour le CMS [Wordpress](./Cms/Wordpress.md)
+- Plugin pour le CMS [Wordpress](./Cms/wordpress.md)
 
 ### Framework
 

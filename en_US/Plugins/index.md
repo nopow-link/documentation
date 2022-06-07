@@ -8,7 +8,7 @@ Discover how to install your extension. Select one of the technologie bellow tha
 
 ### CMS
 
-- Plugin for the CMS : [Wordpress](./Cms/Wordpress.md)
+- Plugin for the CMS : [Wordpress](./Cms/wordpress.md)
 
 ### Framework
 

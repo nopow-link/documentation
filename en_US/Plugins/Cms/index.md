@@ -1,3 +1,3 @@
 ### CMS
 
-- Plugin for the CMS : [Wordpress](./Cms/Wordpress.md)
+- Plugin for the CMS : [Wordpress](./wordpress.md)
