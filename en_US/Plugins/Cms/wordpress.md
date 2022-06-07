@@ -1,4 +1,6 @@
-
+---
+title: Wordpress
+---
 
 # Install the wordpress plugin
 
