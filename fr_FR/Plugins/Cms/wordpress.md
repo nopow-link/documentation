@@ -12,7 +12,8 @@ Après avoir renseigner l'url de votre site internet dans les paramettres de con
 
 *Choisir le plugin :*
 
-![image](../../_images/plugin/cms/wordpress/select-plugin.png)
+![Plugin](https://i.imgur.com/0YdDCcM.png)
+
 
 > Si par erreur vous avez selectionné le mauvais plugin lors du processus d'installation vous pouvez vous rendre dans la section [paramettres de plugins](https://www.nopow-link.com/fr/app/plugins/) pour le changer. Notez que Nopow-Link peux ne pas être compatible nativement avec la technologie de votre site internet. Danc ce cas vous pouvez utiliser la versions portable de notre plugin. Plus d'informations [ici](../version_portable.md).
 
@@ -20,8 +21,9 @@ Une fois selectionné, il ne vous reste plus qu'à cliquer sur le bouton téléc
 
 *Téléchargement et clé d'API :*
 
-![image](../../_images/plugin/cms/wordpress/download.png)
-![image](../../_images/plugin/cms/wordpress/archive.png)
+![Download](https://i.imgur.com/3XOJLyK.png)
+![Archive Nopow-Link](https://i.imgur.com/uk4vKW8.png)
+
 
 ### Installer le plugin
 
@@ -31,17 +33,19 @@ A partir de votre espace administrateur, rendez-vous sur l'onglet "extensions" p
 
 *Menu extension :*
 
-![image](../../_images/plugin/cms/wordpress/wordpress.png)
+![Wordpress](https://i.imgur.com/bzYdxly.png)
+
 
 Sur cette page, vous devriez trouver un bouton "téléverser une extension". Cliquez dessus puis selectionnez l'archive `zip` précédement téléchargé en cliquant sur le bouton "choisir un fichier". Une fois choisit cliquer sur le bouton "installer maintenant" pour lancer l'installation du plugin. Arrivé au terme de l'installation n'oubliez pas de cliquer sur activer le plugin afin de finaliser son installation.
 
 *Installer plugin :*
 
-![image](../../_images/plugin/cms/wordpress/installer.png)
+![Install plugin](https://i.imgur.com/RSUpQ9x.png)
 
 *Activer plugin :*
 
-![image](../../_images/plugin/cms/wordpress/activer.png)
+![Activer plugin](https://i.imgur.com/E2T7d38.png)
+
 
 ### Certifier le plugin
 
@@ -52,6 +56,7 @@ Vous y êtes presque. Afin de garantir que vous êtes belle est bien le proprié
 Il ne vous reste plus qu'à copier coller la clé d'activation qui vous à été fournit dans votre espace utilisateur Nopow-Link et de cliquer sur le bouton "certifier plugin".
 
 *Certifier plugin*
-![image](../../_images/plugin/cms/wordpress/certifier.png)
+![Certifier plugin](https://i.imgur.com/i1nLJg9.png)
+
 
 Féliciation vous avez finalisé la configuration de votre compte.
