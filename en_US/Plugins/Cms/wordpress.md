@@ -15,7 +15,7 @@ After entering the URL of your website in the configuration settings of your acc
 ![Select plugin](https://i.imgur.com/0YdDCcM.png)
 
 
-> If by mistake you selected the wrong plugin during the installation process, you can go to the section [plugin settings](https://www.nopow-link.com/en/app/plugins/) for the to change. Note that Nopow-Link may not be natively compatible with your website's technology. In this case you can use the portable version of our plugin. More information [here](../portable_version.md).
+> If by mistake you selected the wrong plugin during the installation process, you can go to the section [plugin settings](https://www.nopow-link.com/en/app/plugins/) to change it. Note that Nopow-Link may not be natively compatible with your website's technology. In this case you can use the portable version of our plugin. More informations [here](../portable_version.md).
 
 Once selected, all you have to do is click on the download button to get the plugin. You should then have a `zip` type archive file. Note that above the download button is your API key, which will be required when installing the plugin on your website.
 
@@ -49,7 +49,7 @@ On this page, you should find an "upload plugin" button. Click on it then select
 
 You are almost there. In order to guarantee that you are the owner of your site, we need to carry out a first exchange of information with this one. To do this, go to the "Nopow-Link" tab of your Wordpress administrator interface.
 
-> Note that if you do not see the Nopow-Link tab after installing the plugin, it is certainly because the plugin is not activated. Go to the "plugins" tab then click on the under "installed plugin", you will find the list of all the plugins installed on your Wordpress site. Find the Nopow-Link plugin in the list then click on the small activate button.
+> Note that if you don't see the Nopow-Link tab after installing the plugin, it is certainly because the plugin is not activated. Go to the "plugins" tab then click on the under "installed plugin", you will find the list of all the plugins installed on your Wordpress site. Find the Nopow-Link plugin in the list then click on the small activate button.
 
 All you have to do is copy paste the activation key that was provided to you in your Nopow-Link user space and click on the "certify plugin" button.
 
